@@ -5,7 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-five_greetings = Greetings.create([
+five_greetings = Greeting.create([
   { id: 1, greetings: 'Merhaba' },
   { id: 2, greetings: 'Hello' },
   { id: 3, greetings: 'Salve' },
