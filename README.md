@@ -2,9 +2,8 @@
 
 # Hello Rails Back End
 
-- API created with ruby on rails.
-- Page shows random greeting from API that include 5 different greeting.
-  
+- Rails API endpoint that include 5 greeting. 
+- Checkout the front end app at [Hello React Front End](https://github.com/ahmetbozaci/hello-react-front-end)
 
 ## Built With
 
@@ -17,17 +16,19 @@
 - $ git clone `$ https://github.com/ahmetbozaci/hello-rails-back-end.git`
 - $ cd hello-rails-back-end
 ```
-
+- Install dependencies, run database
 ```
 - $ npm install
 - $ bundle install
 - $ rails db:migrate
 - $ rails db:seeds
 ```
-- Open website
+- Open website and view api response
 ```
 - $ rails s
 ```
+- Open http://127.0.0.1:3000/greetings to view api response
+
 ## Authors
 
 👤 **Ahmet Bozacı**
