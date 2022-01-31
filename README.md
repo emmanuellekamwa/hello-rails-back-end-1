@@ -13,7 +13,7 @@
 ## Setup
 - Clone this project
 ```
-- $ git clone `$ https://github.com/ahmetbozaci/hello-rails-back-end.git`
+- $ git clone https://github.com/ahmetbozaci/hello-rails-back-end.git
 - $ cd hello-rails-back-end
 ```
 - Install dependencies, run database
