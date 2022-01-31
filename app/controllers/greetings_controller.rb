@@ -1,6 +1,6 @@
 class GreetingsController < ApplicationController
   def index
-    @greetings = Greeting.all
+    @greetings = Greeting.all.sample
     render json: @greetings
   end
 
